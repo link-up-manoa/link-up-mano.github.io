@@ -5,6 +5,7 @@
 * [Mockup Pages](#mockup-pages)
 * [Use Cases](#use-cases)
 * [Extra Sauce](#extra-sauce)
+* [Team Members](#team-members)
 
 ## Overview
 The problem: ICS students often spend more time than they need on their homework and don’t learn the material as effectively as they could, because they study alone and do not leverage the power of face-to-face study groups with peer mentors.
@@ -77,3 +78,9 @@ After implementing the basic functionality, here are ideas for more advanced fea
 * Slack integration to facilitate notification and organization of meetings.
 * A Slack Bot to suggest and help implement Study Buddy meetings.
 * A rating system for meetings and sensei participation.
+
+## Team Members
+* Aubrie Usui
+* Kameron Wong
+* Jatin Pandya
+* Taylor Gabatino
