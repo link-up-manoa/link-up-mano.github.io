@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to Link-Up Manoa!
 
-You can use the [editor on GitHub](https://github.com/link-up-manoa/link-up-mano.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Link-Up Manoa is a new way for students to connect and study with each other in the digital era. By organizing face to face study sessions using an online platform, this allows an efficient and effective way for students to cross the barrier of asking for help, and leverages the pros of study groups and peer mentorship.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Team Members
 
-### Markdown
+Aubrie Usui, Kameron Wong, Jatin Pandya, Taylor Gabatino
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/link-up-manoa/link-up-mano.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Spring 2020
