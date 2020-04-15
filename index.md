@@ -58,6 +58,9 @@ Some possible mockup pages include:
 * Create Study Sesh page
 * Study session page
 * Game mechanic page(s) (for example, a leaderboard?)
+* Friends Page
+
+<img src="doc/friends.png">
 
 ## Use Cases
 
