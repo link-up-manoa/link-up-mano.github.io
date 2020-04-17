@@ -58,6 +58,9 @@ Some possible mockup pages include:
 * User home page
 * Admin home page
 * User profile page
+
+<img src="images/user-profile.PNG">
+
 * Calendar page
 * Create Study Sesh page
 * Study session page
