@@ -53,7 +53,7 @@ Some possible mockup pages include:
 
 * Landing page
 
-<img src="images/landing-screenshot.png">
+<img src="images/landing-screenshot.PNG">
 
 * User home page
 * Admin home page
