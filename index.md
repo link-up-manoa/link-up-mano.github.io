@@ -93,6 +93,5 @@ After implementing the basic functionality, here are ideas for more advanced fea
 * Taylor Gabatino
 
 ## Links
-* <a src='https://github.com/orgs/link-up-manoa/projects/1'>Project Milestone 1<a/> 
-* <a url={'https://github.com/orgs/link-up-manoa/projects/2'}>Project Milestone 2<a/> 
-* <a src={'https://github.com/orgs/link-up-manoa/projects/1'}>Project Milestone 1<a/> 
+* <a href="https://github.com/orgs/link-up-manoa/projects/1">Project Milestone 1<a/> 
+* <a href="https://github.com/orgs/link-up-manoa/projects/2">Project Milestone 2<a/> 
