@@ -6,6 +6,7 @@
 * [Use Cases](#use-cases)
 * [Extra Sauce](#extra-sauce)
 * [Team Members](#team-members)
+* [Links](#links)
 
 ## Overview
 The problem: ICS students often spend more time than they need on their homework and don’t learn the material as effectively as they could, because they study alone and do not leverage the power of face-to-face study groups with peer mentors.
@@ -51,6 +52,9 @@ There are other mechanisms (Slack, Piazza) for asynchronous, online help and sup
 Some possible mockup pages include:
 
 * Landing page
+
+<img src="images/landing-screenshot.png">
+
 * User home page
 * Admin home page
 * User profile page
@@ -87,3 +91,7 @@ After implementing the basic functionality, here are ideas for more advanced fea
 * Kameron Wong
 * Jatin Pandya
 * Taylor Gabatino
+
+## Links
+* Project Milestone 1: https://github.com/orgs/link-up-manoa/projects/1
+* Project Milestone 2: https://github.com/orgs/link-up-manoa/projects/2
