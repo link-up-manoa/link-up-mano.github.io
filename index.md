@@ -55,6 +55,10 @@ Some possible mockup pages include:
 
 <img src="images/landing-screenshot.PNG">
 
+* Login Page
+
+<img src="images/login.PNG">
+
 * User home page
 * Admin home page
 * User profile page
