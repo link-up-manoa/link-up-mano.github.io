@@ -60,7 +60,7 @@ Some possible mockup pages include:
 * Game mechanic page(s) (for example, a leaderboard?)
 * Friends Page
 
-<img src="friends.png">
+<img src="images/friends.png">
 
 ## Use Cases
 
