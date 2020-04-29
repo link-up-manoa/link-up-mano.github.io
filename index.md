@@ -66,6 +66,7 @@ Some possible mockup pages include:
 <img src="images/user-profile.PNG">
 
 * Calendar page
+
 The calendar page or Reminder page allows the user to access the study sessions he or she has coming up.  It also allows the user to add time stamped notes to the session.  On the bottom, the user can add in reminders and check them off as they go.  
 
 <img src="images/calender.png">
@@ -77,6 +78,7 @@ The calendar page or Reminder page allows the user to access the study sessions 
 * Study session page
 * Game mechanic page(s) (for example, a leaderboard?)
 * Friends Page
+
 The friends page allows the user to see who their friends are, who is still pending their friend request, and who has requested to be their friend.  On the left side, the user is shown recommendations based on the user's major and classes.  Finally, on the bottom, the user can search for a friends username as well to connect and send a pending request.  
 
 <img src="images/friends.png">
