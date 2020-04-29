@@ -67,7 +67,7 @@ Some possible mockup pages include:
 
 * Calendar page
 
-<img src="images/calendar.png">
+<img src="images/calender.png">
 
 * Create Study Sesh page
 * Study session page
