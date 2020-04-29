@@ -59,8 +59,10 @@ Some possible mockup pages include:
 
 <img src="images/login.PNG">
 
-* User home page
 * Admin home page
+
+<img src="images/adminPage.png">
+
 * User profile page
 
 <img src="images/user-profile.PNG">
@@ -82,6 +84,10 @@ The calendar page or Reminder page allows the user to access the study sessions 
 The friends page allows the user to see who their friends are, who is still pending their friend request, and who has requested to be their friend.  On the left side, the user is shown recommendations based on the user's major and classes.  Finally, on the bottom, the user can search for a friends username as well to connect and send a pending request.  
 
 <img src="images/friends.png">
+
+## Data Model
+
+<img src="images/dataModel.png">
 
 ## Use Cases
 
