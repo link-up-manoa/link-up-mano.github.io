@@ -59,8 +59,10 @@ Some possible mockup pages include:
 
 <img src="images/login.PNG">
 
-* User home page
 * Admin home page
+
+<img src="images/adminPage.PNG">
+
 * User profile page
 
 <img src="images/user-profile.PNG">
@@ -78,6 +80,10 @@ Some possible mockup pages include:
 * Friends Page
 
 <img src="images/friends.png">
+
+## Data Model
+
+<img src="images/dataModel.png">
 
 ## Use Cases
 
