@@ -66,6 +66,9 @@ Some possible mockup pages include:
 <img src="images/user-profile.PNG">
 
 * Calendar page
+
+<img src="images/calendar.png">
+
 * Create Study Sesh page
 * Study session page
 * Game mechanic page(s) (for example, a leaderboard?)
