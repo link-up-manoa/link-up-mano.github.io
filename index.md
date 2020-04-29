@@ -109,3 +109,4 @@ After implementing the basic functionality, here are ideas for more advanced fea
 * <a href="http://linkupmanoa.meteorapp.com/#/">Deployed Page<a/> 
 * <a href="https://github.com/link-up-manoa/link-up-manoa/projects/1">Project Milestone 1<a/> 
 * <a href="https://github.com/link-up-manoa/link-up-manoa/projects/2">Project Milestone 2<a/> 
+* <a href="https://github.com/link-up-manoa/link-up-manoa/projects/3">Project Milestone 3<a/> 
