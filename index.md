@@ -55,13 +55,13 @@ Some possible mockup pages include:
 
 This is the general page where all users who first come to our app will see what our app is about and what it does.  It gives a brief explanation to how it works and what to expect.
 
-<img src="images/landing-screenshot.PNG">
+<img src="images/lum-home.png">
 
 * Login Page
 
 This is the login page that allows new users to create an account with us or returning users to sign in to their account.
 
-<img src="images/login.PNG">
+<img src="images/lum-login.png">
 
 * Admin home page
 
@@ -73,32 +73,32 @@ Admin homepage is the same functions as the user home pages, but it will have al
 
 The user profile page is where you will see you own profile and information.  
 
-<img src="images/user-profile.PNG">
+<img src="images/lum-user-page.png">
 
 * Reminder page
 
 The reminder page allows the user to access the study sessions he or she has coming up.  He or she is allowed to approve or decline the study session to ask as an RSVP.  It also allows the user to add time stamped notes to the session if there is any last minute ideas of comments the user wants to put.  On the bottom, the user can add in reminders and check them off as they go.  
 
-<img src="images/calender.png">
+<img src="images/lum-reminders.png">
 
-* Create Study Sesh page
+* Register user page
 
-This page will allow the user to create a study session with his/her classmates.  They will fill in all the required items and then submit the form.  This will them show up in the Reminders page as a card to remind the person of their upcoming study sessions.
+This page will allow the user to register their new account and/or make a new one, if they lost their crudentials.
 
-<img src="images/create.png">
+<img src="images/lum-register-user.png">
 
 * Friends Page
 
 
 The friends page allows the user to see who their friends are, who is still pending their friend request, and who has requested to be their friend.  On the left side, the user is shown recommendations based on the user's major and classes.  Finally, on the bottom, the user can search for a friends username as well to connect and send a pending request.  
 
-<img src="images/friends.png">
+<img src="images/lum-friends.png">
 
 * Tutor Search
 
 The tutor search page lets the user search for tutors in the system.  It shows what their specialties are as well as what classes or subjects they teach.  It also shows their ratings, gives the user a link to their profile, and it allows the user to request the tutor.
 
-<img src="images/tutor.png">
+<img src="images/lum-tutors.png">
 
 ## Data Model
 
