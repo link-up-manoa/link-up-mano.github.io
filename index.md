@@ -96,9 +96,9 @@ The friends page allows the user to see who their friends are, who is still pend
 
 * Tutor Search
 
-The tutor search page lets the user search for tutors in the system.  It shows what their specialties are as well as what classes or subjects they teach.  
+The tutor search page lets the user search for tutors in the system.  It shows what their specialties are as well as what classes or subjects they teach.  It also shows their ratings, gives the user a link to their profile, and it allows the user to request the tutor.
 
-
+<img src="images/tutor.png">
 
 ## Data Model
 
