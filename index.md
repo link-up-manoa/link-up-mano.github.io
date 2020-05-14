@@ -86,7 +86,9 @@ The reminder page allows the user to access the study sessions he or she has com
 This page will allow the user to create a study session with his/her classmates.  They will fill in all the required items and then submit the form.  This will them show up in the Reminders page as a card to remind the person of their upcoming study sessions.
 
 <img src="images/create.png">
+
 * Friends Page
+
 
 The friends page allows the user to see who their friends are, who is still pending their friend request, and who has requested to be their friend.  On the left side, the user is shown recommendations based on the user's major and classes.  Finally, on the bottom, the user can search for a friends username as well to connect and send a pending request.  
 
@@ -94,7 +96,13 @@ The friends page allows the user to see who their friends are, who is still pend
 
 * Tutor Search
 
+The tutor search page lets the user search for tutors in the system.  It shows what their specialties are as well as what classes or subjects they teach.  
+
+
+
 ## Data Model
+
+Our data model explains how our back-end of the system will work.  On the left is the User profile schema that we used to create different users.  The user is connected to the friends system.  Then it goes to the classes and study groups.  The system tries to organize your study groups by comparing others to the user's major and classes.  
 
 <img src="images/dataModel.png">
 
