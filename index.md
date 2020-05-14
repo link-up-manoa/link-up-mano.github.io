@@ -67,7 +67,7 @@ This is the login page that allows new users to create an account with us or ret
 
 Admin homepage is the same functions as the user home pages, but it will have all of the users in an extra tab no matter who the owner. 
 
-<img src="images/adminPage.png">
+<img src="images/lum-admin.png">
 
 * User profile page
 
