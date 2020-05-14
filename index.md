@@ -53,17 +53,25 @@ Some possible mockup pages include:
 
 * Landing page
 
+This is the general page where all users who first come to our app will see what our app is about and what it does.  It gives a brief explanation to how it works and what to expect.
+
 <img src="images/landing-screenshot.PNG">
 
 * Login Page
+
+This is the login page that allows new users to create an account with us or returning users to sign in to their account.
 
 <img src="images/login.PNG">
 
 * Admin home page
 
+Admin homepage is the same functions as the user home pages, but it will have all of the users in an extra tab no matter who the owner. 
+
 <img src="images/adminPage.png">
 
 * User profile page
+
+The user profile page is where you will see you own profile and information.  
 
 <img src="images/user-profile.PNG">
 
